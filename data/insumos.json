@@ -7,5 +7,14 @@
     "valor": 67200,
     "tareaRelacionada": "Fertilzante foliar corrector",
     "notas": ""
+  },
+  {
+    "id": 2,
+    "fecha": "2026-04-28",
+    "producto": "Rastrillo Nivelador",
+    "cantidad": "1",
+    "valor": 153678,
+    "tareaRelacionada": "Nivelacion",
+    "notas": ""
   }
 ]
