@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "fecha": "2026-09-03",
-    "producto": "Sulfato de Amonio",
-    "cantidad": "2 Bidones",
-    "valor": 67200,
-    "tareaRelacionada": "Fertilzante foliar corrector",
-    "notas": ""
-  },
-  {
     "id": 2,
     "fecha": "2026-04-28",
     "producto": "Rastrillo Nivelador",
