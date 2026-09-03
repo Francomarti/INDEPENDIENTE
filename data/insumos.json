@@ -7,5 +7,14 @@
     "valor": 153678,
     "tareaRelacionada": "Nivelacion",
     "notas": ""
+  },
+  {
+    "id": 3,
+    "fecha": "2026-08-31",
+    "producto": "Sulfato de Amonio SINERGIA",
+    "cantidad": "2",
+    "valor": 72735.52,
+    "tareaRelacionada": "Fertilizacion",
+    "notas": ""
   }
 ]
