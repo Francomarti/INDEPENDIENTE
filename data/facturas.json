@@ -30,7 +30,7 @@
     "concepto": "Cuota Agosto (3)",
     "monto": 480000,
     "estado": "pendiente",
-    "montoPagado": 480000,
+    "montoPagado": 0,
     "fechaPago": null,
     "medioPago": null,
     "pdf": "https://drive.google.com/file/d/1WnRdRwpBHgKwEFv0ePMfP4CmmjNwvur7/view?usp=sharing"
