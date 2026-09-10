@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 551111,
+    "cuotaFija": 590000,
     "mesesTranscurridos": 3
   },
   "cambios": [],
@@ -212,6 +212,17 @@
       "tarea": "Arenado 30tn",
       "zona": "Cancha completa",
       "valor": 460000,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": ""
+    },
+    {
+      "id": 20,
+      "mes": "Agosto",
+      "anio": 2026,
+      "tarea": "Slicer Profundo",
+      "zona": "Cancha completa",
+      "valor": 350000,
       "intervenciones": 1,
       "estado": "planificado",
       "notas": ""
