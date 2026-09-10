@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 588889,
+    "cuotaFija": 578889,
     "mesesTranscurridos": 3
   },
   "cambios": [],
@@ -223,17 +223,6 @@
       "tarea": "Slicer Profundo",
       "zona": "Cancha completa",
       "valor": 250000,
-      "intervenciones": 1,
-      "estado": "realizado",
-      "notas": ""
-    },
-    {
-      "id": 21,
-      "mes": "Agosto",
-      "anio": 2026,
-      "tarea": "Fertilziacion Liquida + Control de Malezas C2",
-      "zona": "Cancha completa",
-      "valor": 90000,
       "intervenciones": 1,
       "estado": "realizado",
       "notas": ""
