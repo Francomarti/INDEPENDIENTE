@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 576667,
+    "cuotaFija": 608889,
     "mesesTranscurridos": 3
   },
   "cambios": [],
@@ -223,6 +223,17 @@
       "tarea": "Arenado 35 tn",
       "zona": "Cancha completa",
       "valor": 450000,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": ""
+    },
+    {
+      "id": 23,
+      "mes": "Octubre",
+      "anio": 2026,
+      "tarea": "Subsolador",
+      "zona": "Eje central",
+      "valor": 290000,
       "intervenciones": 1,
       "estado": "planificado",
       "notas": ""
