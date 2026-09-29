@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 608889,
+    "cuotaFija": 630222,
     "mesesTranscurridos": 3
   },
   "cambios": [],
@@ -234,6 +234,17 @@
       "tarea": "Subsolador",
       "zona": "Eje central",
       "valor": 290000,
+      "intervenciones": 1,
+      "estado": "planificado",
+      "notas": ""
+    },
+    {
+      "id": 24,
+      "mes": "Septiembre",
+      "anio": 2026,
+      "tarea": "Pua hueca",
+      "zona": "Zona Central + Areas",
+      "valor": 192000,
       "intervenciones": 1,
       "estado": "planificado",
       "notas": ""
