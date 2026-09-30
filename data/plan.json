@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 613556,
+    "cuotaFija": 580222,
     "mesesTranscurridos": 3
   },
   "cambios": [],
@@ -80,17 +80,6 @@
       "tarea": "Púa Hueca",
       "zona": "Cancha completa",
       "valor": 400000,
-      "intervenciones": 1,
-      "estado": "planificado",
-      "notas": ""
-    },
-    {
-      "id": 9,
-      "mes": "Noviembre",
-      "anio": 2026,
-      "tarea": "Corte Vertical",
-      "zona": "Cancha completa",
-      "valor": 300000,
       "intervenciones": 1,
       "estado": "planificado",
       "notas": ""
