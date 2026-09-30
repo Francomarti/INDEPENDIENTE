@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 630222,
+    "cuotaFija": 613556,
     "mesesTranscurridos": 3
   },
   "cambios": [],
@@ -60,17 +60,6 @@
       "valor": 320000,
       "intervenciones": 1,
       "estado": "realizado",
-      "notas": ""
-    },
-    {
-      "id": 6,
-      "mes": "Octubre",
-      "anio": 2026,
-      "tarea": "Control de Malezas",
-      "zona": "Cancha completa",
-      "valor": 150000,
-      "intervenciones": 1,
-      "estado": "planificado",
       "notas": ""
     },
     {
