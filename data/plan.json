@@ -2,7 +2,7 @@
   "meta": {
     "cliente": "Club Independiente",
     "periodo": "Junio 2026 – Marzo 2027",
-    "cuotaFija": 652750,
+    "cuotaFija": 602750,
     "mesesTranscurridos": 4
   },
   "cambios": [],
@@ -67,17 +67,6 @@
       "mes": "Octubre",
       "anio": 2026,
       "tarea": "Aireado Slicer Profundo/Púa Sólida",
-      "zona": "Cancha completa",
-      "valor": 400000,
-      "intervenciones": 1,
-      "estado": "planificado",
-      "notas": ""
-    },
-    {
-      "id": 8,
-      "mes": "Noviembre",
-      "anio": 2026,
-      "tarea": "Púa Hueca",
       "zona": "Cancha completa",
       "valor": 400000,
       "intervenciones": 1,
