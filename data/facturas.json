@@ -53,8 +53,8 @@
     "fecha": "2026-08-31",
     "concepto": "Sulfato de Amonio",
     "monto": 72735.52,
-    "estado": "pendiente",
-    "montoPagado": 0,
+    "estado": "pagada",
+    "montoPagado": 72735.52,
     "fechaPago": null,
     "medioPago": null,
     "pdf": "https://drive.google.com/file/d/153JfL8j4rS1-WtHPxHKt-W7NP7ZgCLlX/view?usp=sharing"
