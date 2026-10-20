@@ -29,8 +29,8 @@
     "fecha": "2026-09-02",
     "concepto": "Cuota Agosto (3)",
     "monto": 480000,
-    "estado": "pendiente",
-    "montoPagado": 0,
+    "estado": "pagada",
+    "montoPagado": 480000,
     "fechaPago": null,
     "medioPago": null,
     "pdf": "https://drive.google.com/file/d/1WnRdRwpBHgKwEFv0ePMfP4CmmjNwvur7/view?usp=sharing"
