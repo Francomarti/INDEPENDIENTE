@@ -91,7 +91,7 @@
     "monto": 480000,
     "estado": "pendiente",
     "montoPagado": 0,
-    "fechaPago": null,
+    "fechaPago": "2026-11-02",
     "medioPago": null,
     "pdf": "https://drive.google.com/file/d/1XNErhuyKeZKg3wUH-hO_H7tp6Y9S97if/view?usp=sharing"
   }
