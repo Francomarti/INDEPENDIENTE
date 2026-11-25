@@ -41,8 +41,8 @@
     "fecha": "2026-04-28",
     "concepto": "Rastrillo",
     "monto": 153678,
-    "estado": "pendiente",
-    "montoPagado": 0,
+    "estado": "pagada",
+    "montoPagado": 153678,
     "fechaPago": null,
     "medioPago": null,
     "pdf": "https://drive.google.com/file/d/16ID7IaRb-j00ob3XgwJKZOnmEVm7qDtc/view?usp=sharing"
